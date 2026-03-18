@@ -15,4 +15,3 @@ while True:
             print(f"Twoja liczba bezwzgledna to:{liczba}")
             break
     except ValueError:
-        print("Podaj liczbe calkowita.")
